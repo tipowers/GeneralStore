@@ -106,3 +106,6 @@ C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\General
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.CopyComplete
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.dll
 C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.pdb
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.InitialCreate.resources
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.csproj.GenerateResource.cache
+C:\Users\tpowe\Desktop\d3V\ElevenFiftyProjects\RedBadge\GeneralStore.MVC\GeneralStore.MVC\obj\Debug\GeneralStore.MVC.Migrations.AddedCustomerModel.resources
